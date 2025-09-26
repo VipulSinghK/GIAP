@@ -20,7 +20,7 @@ Disclaimer and about NSE Academy.
 
 Technologies Used-
 
-HTML5: Structure and content.
-CSS3: Styling, layouts, and responsiveness.
-JavaScript: Interactive features like smooth scrolling.
-Bootstrap: For Fast and Responsive Design
+1. HTML5: Structure and content.
+2. CSS3: Styling, layouts, and responsiveness.
+3. JavaScript: Interactive features like smooth scrolling.
+4. Bootstrap: For Fast and Responsive Design.
